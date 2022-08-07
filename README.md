@@ -13,7 +13,7 @@ Clone and run the website using these command:
   git clone https://github.com/adhirajkar3103/github-issue-app.git
   cd github-issue-app
   npm install
-  npm run
+  npm start
 ```
     
 ## Screenshots
